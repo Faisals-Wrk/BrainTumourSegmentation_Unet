@@ -1,5 +1,8 @@
 # Brain Tumor Segmentation Using Multi-Modal MRI and U-Net (PyTorch)
 
+![One of the predictions](./an_output.png)
+
+
 ## 1. Overview
 
 This project performs **brain tumor segmentation** using a **U-Net architecture implemented in PyTorch**.  
